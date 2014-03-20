@@ -21,7 +21,7 @@ var url = require('url')
 var util = require('util')
 var which = require('which')
 
-var downloadUrl = 'http://cdn.bitbucket.org/ariya/phantomjs/downloads/phantomjs-' + helper.version + '-'
+var downloadUrl = 'http://nodephantomjs.qiniudn.com/phantomjs-' + helper.version + '-'
 
 var originalPath = process.env.PATH
 
