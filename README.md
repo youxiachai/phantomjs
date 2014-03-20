@@ -1,13 +1,15 @@
 phantom
 =======
 
+中国网络有时候访问 bitbucket 不能 , 所以搞了一个七牛分支.只支持linux ...
+
 An NPM wrapper for [PhantomJS](http://phantomjs.org/), headless webkit with JS API.
 
 Building and Installing
 -----------------------
 
 ```shell
-npm install phantomjs
+npm install -g git://github.com/youxiachai/phantomjs-qiniu.git
 ```
 
 Or grab the source and
